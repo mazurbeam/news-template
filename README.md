@@ -36,7 +36,7 @@ This project template is designed for creating [Wagtail](https://wagtail.org) bu
 5. **Initialize Project**: Use the `wagtail start` command to create a new project based on the Wagtail Starter Kit template.
 
    ```bash
-   wagtail start --template=https://github.com/wagtail/news-template/archive/refs/heads/main.zip myproject .
+   wagtail start --template=https://github.com/mazurbeam/news-template/archive/refs/heads/main.zip myproject .
    ```
 
 6. **Install Project Dependencies**: Install the project's dependencies into a virtual environment.
